@@ -1,0 +1,18 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+east2555,Eastern Bolivian Guaraní,,-20.42,-63.37,east2555,,1,language,Tupian,languages
+iyow1239,Forest Chorote,,-22.2067,-62.6508,iyow1239,,2,language,Mataguayan,languages
+mapu1245,Mapudungun,,-38.7392,-71.277,mapu1245,,4,language,Araucanian,languages
+mbya1239,Mbyá Guaraní,,-26.0188,-52.711,mbya1239,,5,language,Tupian,languages
+moco1246,Mocoví,,-28.097,-60.4145,moco1246,,6,language,Guaicuruan,languages
+para1311,Paraguayan Guaraní,,-25.60551,-57.08816,para1311,,3,language,Tupian,languages
+pila1245,Pilagá,,-25.0058,-60.1537,pila1245,,7,language,Guaicuruan,languages
+sant1432,Santiago del Estero Quichua,,-27.821,-63.2466,sant1432,,8,language,Quechuan,languages
+tehu1242,Tehuelche,,-47.5796,-68.3235,tehu1242,,9,language,Chonan,languages
+toba1269,Toba,,-23.77,-61.96,toba1269,,10,language,Guaicuruan,languages
+wich1264,Güisnay,,-23.1633,-62.1757,wich1264,,11,language,Mataguayan,languages
+arau1255,Araucanian,,,,arau1255,,4,family,,families
+chon1288,Chonan,,,,chon1288,,9,family,,families
+guai1249,Guaicuruan,,,,guai1249,,6 7 10,family,,families
+mata1289,Mataguayan,,,,mata1289,,2 11,family,,families
+quec1387,Quechuan,,,,quec1387,,8,family,,families
+tupi1275,Tupian,,,,tupi1275,,1 3 5,family,,families
