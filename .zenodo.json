@@ -14,5 +14,10 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Figueira, Ricardo. 1982. Atlas total de la Rep\u00fablica Argentina. In  Chiozza, Elena (ed.) Centro Editor de Am\u00e9rica Latina.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ]
 }

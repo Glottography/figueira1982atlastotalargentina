@@ -12,7 +12,7 @@ cldfbench download cldfbench_figueira1982atlastotalargentina.py
 ```shell
 cldfbench makecldf cldfbench_figueira1982atlastotalargentina.py --glottolog-version v5.2
 cldfbench cldfreadme cldfbench_figueira1982atlastotalargentina.py
-cldfbench zenodo cldfbench_figueira1982atlastotalargentina.py
+cldfbench zenodo --communities glottography cldfbench_figueira1982atlastotalargentina.py
 cldfbench readme cldfbench_figueira1982atlastotalargentina.py
 ```
 

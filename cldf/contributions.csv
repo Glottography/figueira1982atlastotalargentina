@@ -1,12 +1,13 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_ID,Map_Name
-1,Ava guaraníes,,,,east2555,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-2,Chorote,,,,iyow1239,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-3,Guaraní correntino,,,,para1311,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-4,Mapuche,,,,mapu1245,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-5,Mbyá,,,,mbya1239,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-6,Mocoví,,,,moco1246,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-7,Pilagá,,,,pila1245,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-8,Quichua santiagueño,,,,sant1432,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-9,Tehuelche,,,,tehu1242,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-10,Toba,,,,toba1269,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
-11,Wichí,,,,wich1264,2001,figueira1982atlastotalargentina,features,Lenguas indígenas de la Argentina actual
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+map_1,Lenguas indígenas de la Argentina actual,,,,,,figueira1982atlastotalargentina,,map,
+1,Ava guaraníes,,,,east2555,2001,figueira1982atlastotalargentina,features,feature,map_1
+2,Chorote,,,,iyow1239,2001,figueira1982atlastotalargentina,features,feature,map_1
+3,Guaraní correntino,,,,para1311,2001,figueira1982atlastotalargentina,features,feature,map_1
+4,Mapuche,,,,mapu1245,2001,figueira1982atlastotalargentina,features,feature,map_1
+5,Mbyá,,,,mbya1239,2001,figueira1982atlastotalargentina,features,feature,map_1
+6,Mocoví,,,,moco1246,2001,figueira1982atlastotalargentina,features,feature,map_1
+7,Pilagá,,,,pila1245,2001,figueira1982atlastotalargentina,features,feature,map_1
+8,Quichua santiagueño,,,,sant1432,2001,figueira1982atlastotalargentina,features,feature,map_1
+9,Tehuelche,,,,tehu1242,2001,figueira1982atlastotalargentina,features,feature,map_1
+10,Toba,,,,toba1269,2001,figueira1982atlastotalargentina,features,feature,map_1
+11,Wichí,,,,wich1264,2001,figueira1982atlastotalargentina,features,feature,map_1
