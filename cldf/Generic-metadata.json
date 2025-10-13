@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/figueira1982atlastotalargentina",
             "rdf:type": "prov:Entity",
-            "dc:created": "702236d",
+            "dc:created": "2435bbc",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
