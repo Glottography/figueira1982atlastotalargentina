@@ -4,5 +4,6 @@
     "description": "This dataset provides non-overlapping contemporary language ranges for indigeneous languages of Argentina as depicted in map 1 of Figueira 1982",
     "license": "CC-BY-4.0",
     "url": null,
+    "zenodo_concept_doi": "10.5281/zenodo.17339171",
     "citation": "Figueira, Ricardo. 1982. Atlas total de la Rep\u00fablica Argentina. In  Chiozza, Elena (ed.) Centro Editor de Am\u00e9rica Latina."
 }
