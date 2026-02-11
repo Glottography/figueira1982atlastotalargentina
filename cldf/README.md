@@ -15,7 +15,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:spatial](http://purl.org/dc/terms/spatial) | westlimit=-72.2; southlimit=-51.7; eastlimit=-53.7; northlimit=-21.9
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/Glottography/figueira1982atlastotalargentina
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/figueira1982atlastotalargentina/tree/v1.0">Glottography/figueira1982atlastotalargentina v1.0</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/figueira1982atlastotalargentina/tree/1be96d7">Glottography/figueira1982atlastotalargentina v1.0-1-g1be96d7</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | figueira1982atlastotalargentina
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

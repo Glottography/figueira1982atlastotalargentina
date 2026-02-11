@@ -45,3 +45,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | tehu1242 | 1.34 | False | 4 |
 | toba1269 | 2.36 | False | 1 |
 | wich1264 | 0.00 | True | 1 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_figueira1982atlastotalargentina.py vX.Y
+```
+and follow the instructions given in the output of the command.
